@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "org.k4n3d4.NoJumpDelayPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Set a custom delay between jumps when holding space key",
+  "URL": "https://github.com/k4n3d4-sh0t4r0/NoJumpDelay-Rusherhack",
+  "Authors": [
+    "k4n3d4_sh0t4r0"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ],
+  "Mixin-Configs": [
+    "mixins.NoJumpDelay.json"
+  ]
+}
