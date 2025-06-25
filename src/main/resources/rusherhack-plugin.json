@@ -1,5 +1,5 @@
 {
-  "Plugin-Class": "org.k4n3d4.NoJumpDelayPlugin",
+  "Plugin-Class": "org.k4n3d4.NoJumpDelay.NoJumpDelayPlugin",
   "Name": "${project.plugin_name}",
   "Version": "${project.plugin_version}",
   "Description": "Set a custom delay between jumps when holding space key",
